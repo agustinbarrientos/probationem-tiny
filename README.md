@@ -11,13 +11,13 @@ $ npm install @probationem/tiny
 
 # Usage
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@probationem/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
 
 tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
+//=> Uncaught TypeError: Tiny expects a string
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
