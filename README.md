@@ -1,6 +1,6 @@
 # @probationem/tiny
 
-![npm](https://img.shields.io/npm/v/@probationem/tiny) ![npm bundle size](https://img.shields.io/bundlephobia/min/agustinbarrientos/probationem-tiny)
+![npm](https://img.shields.io/npm/v/@probationem/tiny) ![npm bundle size](https://img.shields.io/bundlephobia/min/@probationem/tiny) ![npm](https://img.shields.io/npm/dt/@probationem/tiny)
 
 Removes all spaces from a string.
 
