@@ -1,5 +1,5 @@
 const isString = ( variable ) => {
-  typeof variable === 'string' || variable instanceof String
+  return typeof variable === 'string' || variable instanceof String
 }
 
 const tiny = ( variable ) => {
