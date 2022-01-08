@@ -5,10 +5,12 @@
 Removes all spaces from a string.
 
 # Install
-`$ npm install @probationem/tiny`
+```
+$ npm install @probationem/tiny
+```
 
 # Usage
-```
+```js
 const tiny = require("@bamblehorse/tiny");
 
 tiny("So much space!");
